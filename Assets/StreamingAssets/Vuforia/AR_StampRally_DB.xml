@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sonnani1" size="1.000000 0.668000" />
+    <ImageTarget name="Fuu" size="1.000000 0.692187" />
+    <ImageTarget name="Yunon" size="1.000000 0.902494" />
+    <ImageTarget name="Ayu" size="1.000000 0.625000" />
+    <ImageTarget name="Haru" size="1.000000 0.669797" />
+    <ImageTarget name="Sei" size="1.000000 0.681579" />
+    <ImageTarget name="Satoma" size="1.000000 0.656222" />
+    <ImageTarget name="RIKI" size="1.000000 0.750000" />
+    <ImageTarget name="Aoi" size="1.000000 0.562500" />
+    <ImageTarget name="Phum" size="1.000000 0.688889" />
+    <ImageTarget name="Nut" size="1.000000 0.700000" />
+    <ImageTarget name="Meeh" size="1.000000 0.665333" />
+    <ImageTarget name="Ken" size="1.000000 0.625000" />
+    <ImageTarget name="Rew" size="1.000000 0.670000" />
+    <ImageTarget name="Ohm" size="1.000000 1.016778" />
+    <ImageTarget name="Win" size="1.000000 0.664062" />
+    <ImageTarget name="Tai" size="1.000000 0.750000" />
+    <ImageTarget name="Noon" size="0.100000 0.066563" />
+    <ImageTarget name="news017_07" size="1.000000 0.697674" />
+  </Tracking>
+</QCARConfig>
